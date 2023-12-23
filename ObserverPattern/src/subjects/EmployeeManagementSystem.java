@@ -11,8 +11,6 @@ import domain.EmployeeDAO;
  * This is the subject that should be able to notify the list of observers that
  * care for employee changes.
  * 
- * @author Screencasts
- * 
  */
 public class EmployeeManagementSystem implements ISubject {
 
